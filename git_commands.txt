@@ -1,0 +1,15 @@
+
+we are learning git commands today
+We learned about
+"git branch" it is used to make copies of our code that we can edit distinctly from other parts of the project
+example usage:
+git branch <my_new_branch>    # create branch
+git checkout <my_new_branch>   #change  to branch
+git branch push -u origin <my_new_branch>     #push new branch to server
+
+Another 
+git status      #tell us what has charges
+git add filename     #stages file for commit
+    commit -a        #commit all staged files
+cp filename filename2
+git log     #show all the commits
